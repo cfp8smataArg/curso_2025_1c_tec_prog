@@ -1,4 +1,4 @@
-# Curso Técnica de programación
+# Curso Técnicas de programación - 1er cuatrimestre 2025
 
 Profesor: Nicolás Vargas
 
