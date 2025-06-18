@@ -10,4 +10,4 @@ Codeshare: [https://codeshare.io/nicomedes](https://codeshare.io/nicomedes)
 
 Tutoriales programacion ya -> [https://www.tutorialesprogramacionya.com/](https://www.tutorialesprogramacionya.com/)
 
-Bootatrap: [https://getbootstrap.com/](https://getbootstrap.com/)
+Bootstrap: [https://getbootstrap.com/](https://getbootstrap.com/)
